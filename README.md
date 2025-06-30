@@ -21,9 +21,9 @@
 本实验使用了 Stanford Large Network Dataset Collection (SNAP) 中的真实世界图数据集。
 
 1. 请将以下数据集解压到您的项目目录中：
-   * Email (`snap-Email-Enron.txt`)
-   * YouTube (`snap-com-youtube.txt`)
-   * Patents (`snap-cit-Patents`)
+   * em (`snap-Email-Enron.txt`): https://snap.stanford.edu/data/email-Enron.txt.gz
+   * yt (`snap-com-youtube.txt`): https://snap.stanford.edu/data/bigdata/communities/com-youtube.ungraph.txt.gz
+   * pt (`snap-cit-Patents`): https://snap.stanford.edu/data/cit-Patents.txt.gz
 
 2. 修改`Graph_Operation.py`代码中的`path_prefix`变量。
 
